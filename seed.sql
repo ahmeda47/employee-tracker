@@ -60,7 +60,3 @@ INSERT INTO employee (firstname, lastname, role_id, manager_id) VALUES ("Shinzo"
 INSERT INTO employee (firstname, lastname, role_id, manager_id) VALUES ("Boris", "Johnson", 10, 9);
 INSERT INTO employee (firstname, lastname, role_id, manager_id) VALUES ("Narendra", "Modi", 11, 3);
 INSERT INTO employee (firstname, lastname, role_id, manager_id) VALUES ("Mohammmad", "Salman", 12, 11);
-
-
-
-
