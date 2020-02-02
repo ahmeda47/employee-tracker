@@ -216,17 +216,17 @@ class Functions {
                 {
                   name: "title",
                   type: "input",
-                  message: "Enter title of role you want to update"
+                  message: "Enter new role"
                 },
                 {
                   name: "salary",
                   type: "input",
-                  message: "Enter salary you want to update"
+                  message: "Enter new salary"
                 },
                 {
                   name: "department_id",
                   type: "input",
-                  message: "Enter ID of department you want to update"
+                  message: "Enter new department ID"
                 }
               ])
               .then(function(res) {
