@@ -1,5 +1,5 @@
 # employee-tracker
-Use the command line to manager your employees.
+Use the command line to manage your employees.
 
 add/view department <br />
 ![](addviewd.gif)
