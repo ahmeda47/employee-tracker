@@ -1,17 +1,17 @@
 # employee-tracker
 Use the command line to manager your employees.
 
-add/view department
+add/view department <br />
 ![](addviewd.gif)
 
-add/view roles
+add/view roles <br />
 ![](addviewr.gif)
 
-update roles
+update roles <br />
 ![](updater.gif)
 
-add/view employees
+add/view employees <br />
 ![](addviewe.gif)
 
-update employees
+update employees <br />
 ![](updatee.gif)
